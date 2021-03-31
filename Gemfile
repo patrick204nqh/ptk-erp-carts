@@ -10,3 +10,5 @@ end
 
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
+gem 'erp_backend', path: '../erp_backend'
+gem 'erp_products', path: '../products'
